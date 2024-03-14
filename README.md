@@ -1,1 +1,7 @@
 # DMOP-Benchmark
+
+Type1
+DF1, DF1M, DF2, DF2M, DF3, DF3M, DF5, DF5M
+
+Type2
+DMaOP
